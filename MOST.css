@@ -1,0 +1,213 @@
+body{
+    padding: 20px;
+    margin: 5px;
+}
+.DIV{
+    width: 150px;
+    height: 150px;
+    border: 8px solid #2E86C1;
+    border-radius: 20px;
+        -moz-box-shadow: 10px 10px 16px #000000;
+-webkit-box-shadow: 10px 10px 16px #000000;
+box-shadow: 10px 10px 16px #000000;
+margin-left: 300px;
+}
+
+img{
+   width: 120px;
+    height: 120px;
+    display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.bethechangemaker
+{
+    float:left;
+   border-radius: 30px;
+    font-size: 55px;
+    color:#2E86C1;
+    font-family: fantasy;
+    border: 8px solid #2E86C1;
+     width: 550px;
+    height: 150px; 
+    margin-left: 600px;
+    position: relative;
+    margin-top: -170px;
+       -moz-box-shadow: 10px 10px 16px #000000;
+-webkit-box-shadow: 10px 10px 16px #000000;
+box-shadow: 10px 10px 16px #000000;
+text-decoration: underline;
+}
+.change
+{
+   
+  text-align: center; 
+  color:#2E86C1;
+  margin-bottom: 60px;
+}
+
+.ques1
+{
+    font-family: cursive;
+    font-size: 20px;
+    color: black;
+     font-weight: bold;
+}
+.what
+{
+    font-family:cursive;
+   
+    font-size: 20px;
+    color:black;
+    
+}
+
+#what_ul
+{
+   font-family:cursive;
+ 
+    font-size: 20px;
+    color:grey;
+      
+}
+
+#how_ul
+{
+ 
+   font-family:cursive;
+ 
+    font-size: 20px;
+    color:grey;
+         
+}
+.HOW
+{
+    width: 500px;
+    height: 500px;
+}
+
+.note
+{
+  font-family:cursive;
+  font-size: 27px;
+    color:firebrick;
+      text-transform: uppercase;
+      border: 4px solid black;
+      border-radius: 18px;
+      padding: 5px;
+            
+}
+A
+{
+   position: relative;
+                margin-top: -110px;  
+}
+
+    .A1{
+                float: right;
+                margin-right: 850px;
+                position: relative;
+                margin-top: -180px;
+            }
+            .A2{
+                float:left;
+                margin-right: 650px;
+            }
+           
+            .A3{
+               float: right;
+                margin-right: 450px;
+                position: relative;
+                margin-top: -180px;
+            }
+           
+              .A4{
+               float: right;
+                margin-right: 50px;
+                position: relative;
+                margin-top: -180px;
+            }
+           
+.h22
+{
+    text-align: center;
+}
+
+
+#modal2
+{
+    float:right;
+    position: relative;
+    margin-top: -65px;
+}
+#b1
+{ margin-left:300px;
+    background-color:#1A5276;
+    position: relative;
+    margin-top: -80px;
+}
+
+#b2
+{
+      background-color:#1A5276;
+      margin-left:600px;
+    
+}
+
+
+.footer {
+  position:fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: teal;
+   height:100px;
+   text-align: center;
+}
+.sm{
+  width: 40px;
+  height: 40px;
+text-align: center;
+
+}
+.contact
+{
+    font-family: cursive;
+    font-size: 25px;
+    color:white;
+      
+}
+#WA
+{
+    margin-right: 900px;
+    position: relative;
+    margin-top: -45px;
+    
+}
+#f
+{
+    float:left;
+}
+#foot
+{
+    margin-left: 400px;
+}
+
+#links
+{
+      font-family: cursive;
+    font-size: 17px;
+    color:white
+    
+}
+
+.quick_links
+{
+    
+    font-family: cursive;
+    font-size: 25px;
+    color:Black;
+    text-align: center;
+    margin-right:  700px;
+}
